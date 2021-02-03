@@ -24,11 +24,17 @@
     "email-validator": "^2.0.4",
     "express": "^4.17.1",
     "jsonwebtoken": "^8.5.1",
+    "mariadb": "^2.5.2",
+    "mysql2": "^2.2.5",
+    "node-notifier": "^9.0.0",
     "pg": "^7.18.2",
     "pg-hstore": "^2.3.3",
     "reflect-metadata": "^0.1.13",
-    "sequelize": "^5.22.3",
-    "sequelize-typescript": "^0.6.11"
+    "sequelize": "^5.10.0",
+    "sequelize-typescript": "^0.6.11",
+    "sequelizer": "^1.1.4",
+    "sqlite3": "^5.0.1",
+    "tedious": "^9.2.3"
   },
   "devDependencies": {
     "@types/bluebird": "^3.5.33",
@@ -40,7 +46,6 @@
     "chai-http": "^4.3.0",
     "mocha": "^6.2.3",
     "rimraf": "^3.0.2",
-    "sequelize-cli": "^6.2.0",
     "ts-node-dev": "^1.1.1",
     "tslint": "^5.20.1",
     "typescript": "^3.9.7"
